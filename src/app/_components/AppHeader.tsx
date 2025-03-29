@@ -3,10 +3,10 @@ export function AppHeader() {
     <div>
       <a
         className="font-serif text-lg font-extralight text-gray-500"
-        href="https://github.com/langmanus/langmanus"
+        href="#"
         target="_blank"
       >
-        LangManus
+        iDataManus
       </a>
     </div>
   );
