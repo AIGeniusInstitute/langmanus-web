@@ -70,7 +70,7 @@ export default function HomePage() {
             {messages.length === 0 && (
               <div className="flex w-[640px] translate-y-[-32px] flex-col">
                 <h3 className="mb-2 text-center text-3xl font-medium">
-                  👋 Hello, there!
+                  👋 Hello, iDataManus World!
                 </h3>
                 <div className="px-4 text-center text-lg text-gray-400">
                   <a
@@ -79,7 +79,7 @@ export default function HomePage() {
                     rel="noopener noreferrer"
                     className="underline hover:text-blue-600"
                   >
-                    LangManus
+                    iDataManus
                   </a>
                   , built on cutting-edge language models, helps you search on
                   web, browse information, and handle complex tasks.
